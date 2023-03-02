@@ -8,11 +8,11 @@
 
 <br>
 
-![nextcord](https://img.shields.io/badge/-nextcord-yellow)
-![discord.py](https://img.shields.io/badge/-discord.py-yellowgreen)
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![flask](https://img.shields.io/badge/-flask-yellowgreen)
-![pandas](https://img.shields.io/badge/-pandas-yellow)
+![nextcord](https://img.shields.io/badge/-NEXTCORD-yellow)
+![discord.py](https://img.shields.io/badge/-DISCORD.PY-yellowgreen)
+![flask](https://img.shields.io/badge/-FLASK-yellowgreen)
+![pandas](https://img.shields.io/badge/-PANDAS-green)
 
 <br>
 
