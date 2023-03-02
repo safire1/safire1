@@ -9,10 +9,10 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![nextcord](https://img.shields.io/badge/-NEXTCORD-yellow)
-![discord.py](https://img.shields.io/badge/-DISCORD.PY-yellowgreen)
-![flask](https://img.shields.io/badge/-FLASK-yellowgreen)
-![pandas](https://img.shields.io/badge/-PANDAS-green)
+![nextcord](https://img.shields.io/badge/-Nextcord-yellow)
+![discord.py](https://img.shields.io/badge/-Discord.py-yellowgreen)
+![flask](https://img.shields.io/badge/-Flask-yellowgreen)
+![pandas](https://img.shields.io/badge/-Pandas-green)
 
 <br>
 
