@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello There!</b></h1>
-<h6 align="center"> "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times." </h6>
+<h6 align="center"> "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times." - Bruce Lee </h6>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&size=25&center=true&vCenter=true+Code&pause=700&&color=19F7B3&width=600&height=100&lines=%3E+Fire+@+Incosmo;%3E+Self+taught+developer;%3E+Noob;%3E+Bug+fixing+while+head+banging" alt="Typing SVG" /></a>
 </p>
