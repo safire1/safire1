@@ -13,6 +13,7 @@
 ![discord.py](https://img.shields.io/badge/-Discord.py-yellowgreen)
 ![pycord](https://img.shields.io/badge/-Pycord-blue)
 ![flask](https://img.shields.io/badge/-Flask-yellow)
+![wavelink](https://img.shields.io/badge/-Wavelink-orange)
 ![pandas](https://img.shields.io/badge/-Pandas-green)
 
 <br>
