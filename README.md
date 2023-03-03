@@ -15,6 +15,7 @@
 ![flask](https://img.shields.io/badge/-Flask-yellow)
 ![wavelink](https://img.shields.io/badge/-Wavelink-orange)
 ![pandas](https://img.shields.io/badge/-Pandas-green)
+![pandas](https://img.shields.io/badge/-Pymongo-yellow)
 
 <br>
 
