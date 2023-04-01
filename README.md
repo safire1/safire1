@@ -18,6 +18,8 @@
 ![pandas](https://img.shields.io/badge/-Pymongo-yellow)
 
 <br>
+<iframe src="https://discord.com/widget?id=1063113911097905222&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<br>
 
 <table border="10" align="center">
 <tr border="10">
