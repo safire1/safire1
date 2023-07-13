@@ -18,7 +18,7 @@
 ![pandas](https://img.shields.io/badge/-Pymongo-yellow)
 
 <br>
-
+<b>I have left.. Idk when will I come back..</b>
 <table border="10" align="center">
 <tr border="10">
 <td width="50%" align="center">
