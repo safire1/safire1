@@ -9,14 +9,6 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![nextcord](https://img.shields.io/badge/-Nextcord-yellow)
-![discord.py](https://img.shields.io/badge/-Discord.py-yellowgreen)
-![pycord](https://img.shields.io/badge/-Pycord-blue)
-![flask](https://img.shields.io/badge/-Flask-yellow)
-![wavelink](https://img.shields.io/badge/-Wavelink-orange)
-![pandas](https://img.shields.io/badge/-Pandas-green)
-![pandas](https://img.shields.io/badge/-Pymongo-yellow)
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
 <b>I have left.. Idk when will I come back..</b>
