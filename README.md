@@ -17,8 +17,8 @@
 ![pandas](https://img.shields.io/badge/-Pandas-green)
 ![pandas](https://img.shields.io/badge/-Pymongo-yellow)
 
-<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br>
 <b>I have left.. Idk when will I come back..</b>
 <table border="10" align="center">
 <tr border="10">
