@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CosmoBot](https://discord.gg/NAD97uTtZF)
 
-- 🌱 I’m currently learning **how to have 48 hours in a day**
+- 🌱 I’m currently learning **life**
 
 - 💬 Ask me about **not my life**
 
