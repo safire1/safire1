@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sa Fire</h1>
-<h3 align="center">A passionate developer from India.</h3>
+<h3 align="center">A passionate developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fire-a&label=Views&color=e1975b&style=plastic" alt="fire-a" /> </p>
 
