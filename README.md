@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fire-a&label=Views&color=e1975b&style=plastic" alt="fire-a" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fire-a&rank=SSS, SS, S, AAA, AA, A, B" alt="fire-a" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fire-a&rank=-C, -UNKNOWN" alt="fire-a" /></a> </p>
 
 - 🔭 I’m currently working on [CosmoBot](https://discord.gg/NAD97uTtZF)
 
