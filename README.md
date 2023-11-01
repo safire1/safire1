@@ -7,7 +7,13 @@
 
 - 🌱 I’m currently learning **life**
 
-- 💬 Ask me about **not my life**
+- 👯 I’m available **on discord**
+
+- 🤝 I'm looking for **coding partners**
+
+- 💬 Ask me about **python**
+
+- 📫 How to reach me **safire.py@gmail.com**
 
 - ⚡ Fun fact **I am cold..**
 
