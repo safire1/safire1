@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sa Fire</h1>
+<h1 align="center">Hi 👋, I'm Fire</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fire-a&label=Views&color=e1975b&style=plastic" alt="fire-a" /> </p>
@@ -7,14 +7,16 @@
 
 - 🔭 I’m currently working on [CosmoBot](https://discord.gg/NAD97uTtZF)
 
-- 🌱 I’m currently learning **Django, pytorch, js**
+- 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **Python, discord.py**
+- 💬 Ask me about **Python**
 
 - ⚡ Fun fact **I just write some shit lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/sonfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sonfire" height="30" width="40" /></a>
+<a href="https://instagram.com/safiredev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safiredev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sonfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sonfire" height="30" width="40" /></a>
 <a href="https://discord.gg/sonfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sonfire" height="30" width="40" /></a>
 </p>
