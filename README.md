@@ -9,7 +9,7 @@
 
 - 👯 I’m available **on discord**
 
-- 🤝 I'm looking for **coding partners**
+- 🤝 I'm looking for **partners**
 
 - 💬 Ask me about **python**
 
