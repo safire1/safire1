@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **safire.py@gmail.com**
 
-- ⚡ Fun fact **I am cold..**
+- ⚡ Fun fact **I am cold...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
