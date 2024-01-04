@@ -5,17 +5,11 @@
 
 - 🔭 I’m currently working on [CosmoBot](https://discord.gg/NAD97uTtZF)
 
-- 🌱 I’m currently learning **life**
 
 - 👯 I’m available **on discord**
 
-- 🤝 I'm looking for **partners**
+- 📫 How to reach me **, hit me up with a dm**
 
-- 💬 Ask me about **python**
-
-- 📫 How to reach me **safire.py@gmail.com**
-
-- ⚡ Fun fact **I am cold...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
