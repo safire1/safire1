@@ -8,7 +8,7 @@
 
 - 👯 I’m available **on discord**
 
-- 📫 How to reach me **, hit me up with a dm**
+- 📫 Soon
 
 
 <h3 align="left">Connect with me:</h3>
