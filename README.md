@@ -8,7 +8,7 @@
 
 - 👯 I’m available **on discord**
 
-- 📫 Soon
+- 📫 sa.firein@proton.me
 
 
 <h3 align="left">Connect with me:</h3>
