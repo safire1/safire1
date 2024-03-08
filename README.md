@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejaswa</h1>
-<h2 align="center">Also known as **SaFire**</h2>
-<h3 align="center">A passionate developer.</h3>
+<h3 align="center">AKA SaFire - A passionate developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fire-a&label=Views&color=e1975b&style=plastic" alt="fire-a" /> </p>
 
