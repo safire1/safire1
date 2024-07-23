@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fire-a&label=Views&color=e1975b&style=plastic" alt="fire-a" /> </p>
 
+- 👯 Founder & co-CEO @ [Inzota Co.](https://inzota.com/)
+
 - 🔭 I’m currently working on [CosmoBot](https://discord.gg/NAD97uTtZF)
-
-
-- 👯 I’m available **on discord**
 
 - 📫 https://tejaswa.is-a.dev/
 
