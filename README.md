@@ -5,7 +5,7 @@
 
 - 👯 Founder & co-CEO @ [Inzota Co.](https://inzota.com/)
 
-- 🔭 I’m currently working on [CosmoBot](https://discord.gg/NAD97uTtZF)
+- 🔭 Lead Developer @ [CosmoBot](https://discord.gg/NAD97uTtZF)
 
 - 📫 https://tejaswa.is-a.dev/
 
