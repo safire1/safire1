@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fire-a&label=Views&color=e1975b&style=plastic" alt="fire-a" /> </p>
 
-- 👯 Founder & co-CEO @ [Inzota Co.](https://inzota.com/)
+- 👯 Founder & CEO @ [Indeservo Co.](https://indeservo.com/)
 
 - 🔭 Lead Developer @ [CosmoBot](https://discord.gg/NAD97uTtZF)
 
@@ -15,7 +15,7 @@
 <a href="https://dev.to/sonfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sonfire" height="30" width="40" /></a>
 <a href="https://instagram.com/safiredev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safiredev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sonfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sonfire" height="30" width="40" /></a>
-<a href="https://discord.gg/sonfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sonfire" height="30" width="40" /></a> (Most active on discord)
+<a href="http://discord.com/users/761614035908034570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sonfire" height="30" width="40" /></a> (Most active on discord)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
